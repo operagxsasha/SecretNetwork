@@ -147,6 +147,6 @@ For the latest documentation, check out [https://docs.scrt.network](https://docs
 - Forum: [https://forum.scrt.network](https://forum.scrt.network)
 - Docs: [https://docs.scrt.network](https://docs.scrt.network)
 - Discord: [https://chat.scrt.network](https://chat.scrt.network)
-- Twitter: [https://twitter.com/SecretNetwork](https://twitter.com/SecretNetwork)
+- X (formerly Twitter): [https://x.com/SecretNetwork](https://x.com/SecretNetwork)
 - Community Telegram Channel: [https://t.me/SCRTnetwork](https://t.me/SCRTnetwork)
 - Community Secret Nodes Telegram: [https://t.me/secretnodes](https://t.me/secretnodes)
